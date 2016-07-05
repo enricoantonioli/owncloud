@@ -1,0 +1,4 @@
+web:
+   image: eantonioli/owncloud:0.1
+   ports:
+     - "8080:80"
